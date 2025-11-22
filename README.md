@@ -1,2 +1,2 @@
-# Lua-Learning
-Repo for learning Lua Lang
+# Kordinat Generator
+membuat generator kordinat memakai math.random
